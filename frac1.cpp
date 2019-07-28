@@ -34,7 +34,7 @@ int main(){
     ifstream fin ("frac1.in");
     ofstream fout ("frac1.out");
     int N; fin >> N;
-    for (int i=1; i<= 5; i++){
+    for (int i=1; i<= N; i++){
         classN(i);
     }
     for (auto const&c:S){
