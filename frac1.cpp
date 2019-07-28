@@ -1,3 +1,8 @@
+/*
+ID: brokard1
+TASK: frac1
+LANG: C++                 
+*/
 #include <fstream>
 #include <iostream>
 #include <set>
